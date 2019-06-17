@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/sea/Documents/Program/Qt/netSpeed--15.10/build",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -Dnetspeed_EXPORTS -I/home/sea/Documents/Program/Qt/netSpeed--15.10/build/netspeed_autogen/include -I/usr/include/libdtk-2.0.12/DCore -I/usr/include/libdtk-2.0.12/DCore/../DWidget -I/usr/include/dde-dock -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++-64  -fPIC    -DQT_PLUGIN -fPIC -std=gnu++11 -o CMakeFiles/netspeed.dir/netspeed_autogen/mocs_compilation.cpp.o -c /home/sea/Documents/Program/Qt/netSpeed--15.10/build/netspeed_autogen/mocs_compilation.cpp",
+  "file": "/home/sea/Documents/Program/Qt/netSpeed--15.10/build/netspeed_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/sea/Documents/Program/Qt/netSpeed--15.10/build",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -Dnetspeed_EXPORTS -I/home/sea/Documents/Program/Qt/netSpeed--15.10/build/netspeed_autogen/include -I/usr/include/libdtk-2.0.12/DCore -I/usr/include/libdtk-2.0.12/DCore/../DWidget -I/usr/include/dde-dock -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++-64  -fPIC    -DQT_PLUGIN -fPIC -std=gnu++11 -o CMakeFiles/netspeed.dir/CMakeFiles/3.14.3/CompilerIdCXX/CMakeCXXCompilerId.cpp.o -c /home/sea/Documents/Program/Qt/netSpeed--15.10/build/CMakeFiles/3.14.3/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+  "file": "/home/sea/Documents/Program/Qt/netSpeed--15.10/build/CMakeFiles/3.14.3/CompilerIdCXX/CMakeCXXCompilerId.cpp"
+},
+{
+  "directory": "/home/sea/Documents/Program/Qt/netSpeed--15.10/build",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -Dnetspeed_EXPORTS -I/home/sea/Documents/Program/Qt/netSpeed--15.10/build/netspeed_autogen/include -I/usr/include/libdtk-2.0.12/DCore -I/usr/include/libdtk-2.0.12/DCore/../DWidget -I/usr/include/dde-dock -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++-64  -fPIC    -DQT_PLUGIN -fPIC -std=gnu++11 -o CMakeFiles/netspeed.dir/getnetspeed.cpp.o -c /home/sea/Documents/Program/Qt/netSpeed--15.10/getnetspeed.cpp",
+  "file": "/home/sea/Documents/Program/Qt/netSpeed--15.10/getnetspeed.cpp"
+},
+{
+  "directory": "/home/sea/Documents/Program/Qt/netSpeed--15.10/build",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -Dnetspeed_EXPORTS -I/home/sea/Documents/Program/Qt/netSpeed--15.10/build/netspeed_autogen/include -I/usr/include/libdtk-2.0.12/DCore -I/usr/include/libdtk-2.0.12/DCore/../DWidget -I/usr/include/dde-dock -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++-64  -fPIC    -DQT_PLUGIN -fPIC -std=gnu++11 -o CMakeFiles/netspeed.dir/homemonitorplugin.cpp.o -c /home/sea/Documents/Program/Qt/netSpeed--15.10/homemonitorplugin.cpp",
+  "file": "/home/sea/Documents/Program/Qt/netSpeed--15.10/homemonitorplugin.cpp"
+},
+{
+  "directory": "/home/sea/Documents/Program/Qt/netSpeed--15.10/build",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -Dnetspeed_EXPORTS -I/home/sea/Documents/Program/Qt/netSpeed--15.10/build/netspeed_autogen/include -I/usr/include/libdtk-2.0.12/DCore -I/usr/include/libdtk-2.0.12/DCore/../DWidget -I/usr/include/dde-dock -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++-64  -fPIC    -DQT_PLUGIN -fPIC -std=gnu++11 -o CMakeFiles/netspeed.dir/informationwidget.cpp.o -c /home/sea/Documents/Program/Qt/netSpeed--15.10/informationwidget.cpp",
+  "file": "/home/sea/Documents/Program/Qt/netSpeed--15.10/informationwidget.cpp"
+},
+{
+  "directory": "/home/sea/Documents/Program/Qt/netSpeed--15.10/build",
+  "command": "/usr/bin/c++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -Dnetspeed_EXPORTS -I/home/sea/Documents/Program/Qt/netSpeed--15.10/build/netspeed_autogen/include -I/usr/include/libdtk-2.0.12/DCore -I/usr/include/libdtk-2.0.12/DCore/../DWidget -I/usr/include/dde-dock -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++-64  -fPIC    -DQT_PLUGIN -fPIC -std=gnu++11 -o CMakeFiles/netspeed.dir/netspeed_autogen/EWIEGA46WW/qrc_home_monitor.cpp.o -c /home/sea/Documents/Program/Qt/netSpeed--15.10/build/netspeed_autogen/EWIEGA46WW/qrc_home_monitor.cpp",
+  "file": "/home/sea/Documents/Program/Qt/netSpeed--15.10/build/netspeed_autogen/EWIEGA46WW/qrc_home_monitor.cpp"
+}
+]

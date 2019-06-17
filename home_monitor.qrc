@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>background.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>getnetspeed.h</file>
+        <file>getnetspeed.cpp</file>
+    </qresource>
+</RCC>

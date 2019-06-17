@@ -1,0 +1,8 @@
+/home/sea/Documents/Program/Qt/netSpeed--15.10/build/CMakeFiles/install/strip.dir
+/home/sea/Documents/Program/Qt/netSpeed--15.10/build/CMakeFiles/install/local.dir
+/home/sea/Documents/Program/Qt/netSpeed--15.10/build/CMakeFiles/netspeed.dir
+/home/sea/Documents/Program/Qt/netSpeed--15.10/build/CMakeFiles/edit_cache.dir
+/home/sea/Documents/Program/Qt/netSpeed--15.10/build/CMakeFiles/rebuild_cache.dir
+/home/sea/Documents/Program/Qt/netSpeed--15.10/build/CMakeFiles/install.dir
+/home/sea/Documents/Program/Qt/netSpeed--15.10/build/CMakeFiles/list_install_components.dir
+/home/sea/Documents/Program/Qt/netSpeed--15.10/build/CMakeFiles/netspeed_autogen.dir
